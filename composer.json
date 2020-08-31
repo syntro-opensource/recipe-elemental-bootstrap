@@ -1,0 +1,27 @@
+{
+    "name": "syntro/recipe-elemental-bootstap",
+    "description": "Recipe to install basic bootstrap components",
+    "type": "silverstripe-recipe",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Matthias Leutenegger",
+            "email": "hello@syntro.ch"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "silverstripe/recipe-plugin": "^1",
+        "syntro/silverstripe-elemental-bootstrap-baseitems": "0.1.0",
+        "syntro/silverstripe-elemental-bootstrap-accordionsection": "0.1.0",
+        "syntro/silverstripe-elemental-bootstrap-alertsection": "0.1.0",
+        "syntro/silverstripe-elemental-bootstrap-featuresection": "0.1.0",
+        "syntro/silverstripe-elemental-bootstrap-gallerysection": "0.1.0",
+        "syntro/silverstripe-elemental-bootstrap-listgroupsection": "0.1.0",
+        "syntro/silverstripe-elemental-bootstrap-spotlightsection": "0.1.0",
+        "syntro/silverstripe-elemental-bootstrap-staffsection": "0.1.0",
+        "syntro/silverstripe-elemental-bootstrap-testimonialsection": "0.1.0",
+        "dnadesign/silverstripe-elemental": "4.4.1",
+        "silverstripe/recipe-cms": "4.6.1"
+    }
+}
