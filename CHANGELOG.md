@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Added
 * code of conduct and contributing guide
+* placeholders for templates and config options
 
 ### Changed
 * extended readme

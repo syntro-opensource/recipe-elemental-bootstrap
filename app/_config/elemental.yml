@@ -5,3 +5,14 @@ Name: elemental-bootstrap-config
 Page:
   extensions:
     - DNADesign\Elemental\Extensions\ElementalPageExtension
+
+Syntro\SilverStripeElementalBaseitems\Elements\BootstrapSectionBaseElement:
+  # add_default_background_color: true
+  # default_background_color: dark
+  # background_colors: true
+  # allow_image_background: true
+  # default_text_color: primary
+  text_colors: {}
+  text_colors_by_background: {}
+  link_colors_by_text: {}
+  link_colors_by_background: {}
