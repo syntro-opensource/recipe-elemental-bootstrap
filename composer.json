@@ -20,7 +20,7 @@
         "syntro/silverstripe-elemental-bootstrap-listgroupsection": "0.1.1",
         "syntro/silverstripe-elemental-bootstrap-spotlightsection": "0.1.1",
         "syntro/silverstripe-elemental-bootstrap-staffsection": "0.1.1",
-        "syntro/silverstripe-elemental-bootstrap-testimonialsection": "0.1.1",
+        "syntro/silverstripe-elemental-bootstrap-testimonialsection": "0.1.1"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.7",
