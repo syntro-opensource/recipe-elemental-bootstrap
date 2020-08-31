@@ -1,5 +1,5 @@
 {
-    "name": "syntro/recipe-elemental-bootstap",
+    "name": "syntro/recipe-elemental-bootstrap",
     "description": "Recipe to install basic bootstrap components",
     "type": "silverstripe-recipe",
     "license": "BSD-3-Clause",
