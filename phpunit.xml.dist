@@ -1,6 +1,5 @@
 <phpunit bootstrap="vendor/silverstripe/cms/tests/bootstrap.php" colors="true">
     <testsuite name="recipe-elemental-bootstrap">
-        <directory>vendor/dnadesign/silverstripe-elemental/tests</directory>
         <directory>vendor/syntro/silverstripe-elemental-bootstrap-baseitems/tests</directory>
         <directory>vendor/syntro/silverstripe-elemental-bootstrap-accordionsection/tests</directory>
         <directory>vendor/syntro/silverstripe-elemental-bootstrap-alertsection/tests</directory>
