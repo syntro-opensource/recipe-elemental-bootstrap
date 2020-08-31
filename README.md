@@ -1,6 +1,7 @@
 # Recipe: Silverstripe elemental bootstrap
 
 [![Build Status](https://travis-ci.com/syntro-opensource/recipe-elemental-bootstap.svg?branch=master)](https://travis-ci.com/syntro-opensource/recipe-elemental-bootstap)
+![Dependabot](https://img.shields.io/badge/dependabot-active-green?logo=dependabot)
 [![composer](https://img.shields.io/packagist/dt/syntro/recipe-elemental-bootstrap?color=success&logo=composer)](https://packagist.org/packages/syntro/recipe-elemental-bootstrap)
 [![Packagist Version](https://img.shields.io/packagist/v/syntro/recipe-elemental-bootstrap?label=Current&logo=composer)](https://packagist.org/packages/syntro/recipe-elemental-bootstrap)
 
