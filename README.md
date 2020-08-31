@@ -1,11 +1,13 @@
 # Recipe: Silverstripe elemental bootstrap
 
-This recipe provides basic building blocks to create a bootstrap based page
+[![Build Status](https://travis-ci.com/syntro-opensource/recipe-elemental-bootstap.svg?branch=master)](https://travis-ci.com/syntro-opensource/recipe-elemental-bootstap)
+[![composer](https://img.shields.io/packagist/dt/syntro/recipe-elemental-bootstrap?color=success&logo=composer)](https://packagist.org/packages/syntro/recipe-elemental-bootstrap)
+[![Packagist Version](https://img.shields.io/packagist/v/syntro/recipe-elemental-bootstrap?label=Current&logo=composer)](https://packagist.org/packages/syntro/recipe-elemental-bootstrap)
+
+Basic building blocks to create a bootstrap based page
 using silverstripe-elemental. Included are:
 
-* [silverstripe/recipe-cms]: basic cms recipe
 * [syntro/recipe-local-bootstrap-theme]: adds a local theme based on bootstrap using webpack as buildtool
-* [dnadesign/silverstripe-elemental]: allows creating pages using content blocks
 * [syntro/silverstripe-elemental-bootstrap-baseitems]: the basic bootstrap items
 * [syntro/silverstripe-elemental-bootstrap-accordionsection]: a section rendering an accordion
 * [syntro/silverstripe-elemental-bootstrap-alertsection]: a section rendering an alert
@@ -16,11 +18,12 @@ using silverstripe-elemental. Included are:
 * [syntro/silverstripe-elemental-bootstrap-staffsection]: a section displaying staff members
 * [syntro/silverstripe-elemental-bootstrap-testimonialsection]: a section displaying testimonials
 
+This recipe is intended to be added to an existing project.
 
+See the [recipe plugin](https://github.com/silverstripe/recipe-plugin) page for instructions on how
+SilverStripe recipes work.
 
-[silverstripe/recipe-cms]: https://github.com/silverstripe/recipe-cms/
 [syntro/recipe-local-bootstrap-theme]: https://github.com/syntro-opensource/recipe-local-bootstrap-theme
-[dnadesign/silverstripe-elemental]: https://github.com/dnadesign/silverstripe-elemental
 [syntro/silverstripe-elemental-bootstrap-baseitems]: https://github.com/syntro-opensource/silverstripe-elemental-bootstrap-baseitems
 [syntro/silverstripe-elemental-bootstrap-accordionsection]: https://github.com/syntro-opensource/silverstripe-elemental-bootstrap-accordionsection
 [syntro/silverstripe-elemental-bootstrap-alertsection]: https://github.com/syntro-opensource/silverstripe-elemental-bootstrap-alertsection
