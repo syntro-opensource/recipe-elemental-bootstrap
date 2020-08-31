@@ -8,7 +8,6 @@
 Basic building blocks to create a bootstrap based page
 using silverstripe-elemental. Included are:
 
-* [syntro/recipe-local-bootstrap-theme]: adds a local theme based on bootstrap using webpack as buildtool
 * [syntro/silverstripe-elemental-bootstrap-baseitems]: the basic bootstrap items
 * [syntro/silverstripe-elemental-bootstrap-accordionsection]: a section rendering an accordion
 * [syntro/silverstripe-elemental-bootstrap-alertsection]: a section rendering an alert
@@ -23,6 +22,43 @@ This recipe is intended to be added to an existing project.
 
 See the [recipe plugin](https://github.com/silverstripe/recipe-plugin) page for instructions on how
 SilverStripe recipes work.
+
+## Requirements
+
+* SilverStripe ^4.0
+* [Bootstrap](https://getbootstrap.com) on the Frontend
+
+
+## Installation
+
+```
+composer require syntro/recipe-elemental-bootstrap
+```
+
+## Documentation
+
+This recipe is a collection of a set of elements for a silverstripe
+installation using a bootstrap based theme.
+
+## Maintainers
+ * Matthias Leutenegger <hello@syntro.ch>
+
+## Bugtracker
+Bugs are tracked in the issues section of this repository. Before submitting an issue please read over
+existing issues to ensure yours is unique.
+
+If the issue does look like a new bug:
+
+ - Create a new issue
+ - Describe the steps required to reproduce your issue, and the expected outcome. Unit tests, screenshots
+ and screencasts can help here.
+ - Describe your environment as detailed as possible: SilverStripe version, Browser, PHP version,
+ Operating System, any installed SilverStripe modules.
+
+Please report security issues to the module maintainers directly. Please don't file security issues in the bugtracker.
+
+## Development and contribution
+If you would like to make contributions to the module please ensure you raise a pull request and discuss with the module maintainers.
 
 [syntro/recipe-local-bootstrap-theme]: https://github.com/syntro-opensource/recipe-local-bootstrap-theme
 [syntro/silverstripe-elemental-bootstrap-baseitems]: https://github.com/syntro-opensource/silverstripe-elemental-bootstrap-baseitems
