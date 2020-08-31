@@ -1,0 +1,7 @@
+---
+Name: elemental-bootstrap-config
+---
+
+Page:
+  extensions:
+    - DNADesign\Elemental\Extensions\ElementalPageExtension
