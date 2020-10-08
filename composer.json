@@ -9,7 +9,8 @@
             "email": "hello@syntro.ch"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "silverstripe/recipe-plugin": "^1",
         "syntro/silverstripe-elemental-bootstrap-baseitems": "0.1.0",
