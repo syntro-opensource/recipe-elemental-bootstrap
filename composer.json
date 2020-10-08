@@ -13,7 +13,7 @@
     "prefer-stable": true,
     "require": {
         "silverstripe/recipe-plugin": "^1",
-        "syntro/silverstripe-elemental-bootstrap-baseitems": "0.1.0",
+        "syntro/silverstripe-elemental-bootstrap-baseitems": "^0.1",
         "syntro/silverstripe-elemental-bootstrap-accordionsection": "0.1.1",
         "syntro/silverstripe-elemental-bootstrap-alertsection": "0.1.1",
         "syntro/silverstripe-elemental-bootstrap-featuresection": "0.1.1",
