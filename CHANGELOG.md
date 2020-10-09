@@ -1,22 +1,27 @@
-# Changelog
-All notable changes to this project will be documented in this file.
-
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
-
+<a name="unreleased"></a>
 ## [Unreleased]
 
+
+<a name="0.2.0"></a>
+## [0.2.0] - 2020-10-09
+### 🍰 Added
+- chglog config
+
+### 🔧 Changed
+- use new template locations for baseitems 0.2.0
+- remove fixed version for base elements
+- set minimum stability to dev
+
+### 🧬 Dependencies
+- updated baseitems and sections
+
+
+<a name="0.1.1"></a>
 ## [0.1.1] - 2020-08-31
-### Added
-* code of conduct and contributing guide
-* placeholders for templates and config options
 
-### Changed
-* extended readme
+<a name="0.1.0"></a>
+## 0.1.0 - 2020-08-31
 
-## [0.1.0] - 2020-08-31
-* Initial release
-
-[Unreleased]: https://github.com/syntro-opensource/recipe-elemental-bootstrap/compare/0.1.1..master
-[0.1.1]: https://github.com/syntro-opensource/recipe-elemental-bootstrap/compare/0.1.0..0.1.1
-[0.1.0]: https://github.com/syntro-opensource/recipe-elemental-bootstrap/tree/0.1.0
+[Unreleased]: https://github.com/syntro-opensource/recipe-elemental-bootstrap/compare/0.2.0...HEAD
+[0.2.0]: https://github.com/syntro-opensource/recipe-elemental-bootstrap/compare/0.1.1...0.2.0
+[0.1.1]: https://github.com/syntro-opensource/recipe-elemental-bootstrap/compare/0.1.0...0.1.1
