@@ -2,6 +2,25 @@
 ## [Unreleased]
 
 
+<a name="0.4.0"></a>
+## [0.4.0] - 2020-11-28
+### 🍰 Added
+- automatic changelog script
+
+### 🗑 Removed
+- baseitem requirement
+
+### 🧬 Dependencies
+- syntro/silverstripe-elemental-bootstrap-accordionsection 0.3.1 -> 0.4.0
+- syntro/silverstripe-elemental-bootstrap-alertsection 0.3.1 -> 0.4.0
+- syntro/silverstripe-elemental-bootstrap-featuresection 0.3.1 -> 0.4.0
+- syntro/silverstripe-elemental-bootstrap-gallerysection 0.3.1 -> 0.4.0
+- syntro/silverstripe-elemental-bootstrap-listgroupsection 0.3.1 -> 0.4.0
+- syntro/silverstripe-elemental-bootstrap-spotlightsection 0.3.1 -> 0.4.0
+- syntro/silverstripe-elemental-bootstrap-staffsection 0.3.1 -> 0.4.0
+- syntro/silverstripe-elemental-bootstrap-testimonialsection 0.3.1 -> 0.4.0
+
+
 <a name="0.3.1"></a>
 ## [0.3.1] - 2020-10-26
 ### 🧬 Dependencies
@@ -40,7 +59,8 @@
 <a name="0.1.0"></a>
 ## 0.1.0 - 2020-08-31
 
-[Unreleased]: https://github.com/syntro-opensource/recipe-elemental-bootstrap/compare/0.3.1...HEAD
+[Unreleased]: https://github.com/syntro-opensource/recipe-elemental-bootstrap/compare/0.4.0...HEAD
+[0.4.0]: https://github.com/syntro-opensource/recipe-elemental-bootstrap/compare/0.3.1...0.4.0
 [0.3.1]: https://github.com/syntro-opensource/recipe-elemental-bootstrap/compare/0.3.0...0.3.1
 [0.3.0]: https://github.com/syntro-opensource/recipe-elemental-bootstrap/compare/0.2.1...0.3.0
 [0.2.1]: https://github.com/syntro-opensource/recipe-elemental-bootstrap/compare/0.2.0...0.2.1
