@@ -15,7 +15,7 @@
         "silverstripe/recipe-plugin": "^1",
         "syntro/silverstripe-elemental-bootstrap-accordionsection": "0.3.1",
         "syntro/silverstripe-elemental-bootstrap-alertsection": "0.3.1",
-        "syntro/silverstripe-elemental-bootstrap-featuresection": "0.3.1",
+        "syntro/silverstripe-elemental-bootstrap-featuresection": "0.4.0",
         "syntro/silverstripe-elemental-bootstrap-gallerysection": "0.4.0",
         "syntro/silverstripe-elemental-bootstrap-listgroupsection": "0.4.0",
         "syntro/silverstripe-elemental-bootstrap-spotlightsection": "0.4.0",
