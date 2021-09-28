@@ -14,6 +14,8 @@
     "require": {
         "silverstripe/recipe-plugin": "^1",
         "dnadesign/silverstripe-elemental": "^4",
+        "gorriecoe/silverstripe-link": "^1.3",
+        "gorriecoe/silverstripe-linkfield": "^1.0",
         "syntro/silverstripe-elemental-baseitem": "1.0.0"
     },
     "require-dev": {
@@ -23,6 +25,7 @@
     "extra": {
         "project-files": [
             "app/_config/elemental.yml",
+            "app/code/*",
             "app/templates/*"
         ]
     }
