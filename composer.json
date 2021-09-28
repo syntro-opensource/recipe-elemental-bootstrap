@@ -1,6 +1,6 @@
 {
     "name": "syntro/recipe-elemental-bootstrap",
-    "description": "Recipe to install basic bootstrap components",
+    "description": "Recipe to install basic elemental components for pages using the bootstrap framework",
     "type": "silverstripe-recipe",
     "license": "BSD-3-Clause",
     "authors": [
@@ -13,6 +13,8 @@
     "prefer-stable": true,
     "require": {
         "silverstripe/recipe-plugin": "^1",
+        "dnadesign/silverstripe-elemental": "^4",
+        "syntro/silverstripe-elemental-baseitem": "1.0.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.7",
