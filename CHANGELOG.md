@@ -2,6 +2,15 @@
 ## [Unreleased]
 
 
+<a name="1.1.0"></a>
+## [1.1.0] - 2022-07-21
+### 🐞 Fixed
+- comply with composer checks
+
+### 🔧 Changed
+- code directory follows convention (`src`)
+
+
 <a name="1.0.0"></a>
 ## [1.0.0] - 2021-09-29
 ### 🍰 Added
@@ -95,7 +104,8 @@ should reinstall the following modules manually:
 <a name="0.1.0"></a>
 ## 0.1.0 - 2020-08-31
 
-[Unreleased]: https://github.com/syntro-opensource/recipe-elemental-bootstrap/compare/1.0.0...HEAD
+[Unreleased]: https://github.com/syntro-opensource/recipe-elemental-bootstrap/compare/1.1.0...HEAD
+[1.1.0]: https://github.com/syntro-opensource/recipe-elemental-bootstrap/compare/1.0.0...1.1.0
 [1.0.0]: https://github.com/syntro-opensource/recipe-elemental-bootstrap/compare/0.4.1...1.0.0
 [0.4.1]: https://github.com/syntro-opensource/recipe-elemental-bootstrap/compare/0.4.0...0.4.1
 [0.4.0]: https://github.com/syntro-opensource/recipe-elemental-bootstrap/compare/0.3.1...0.4.0
