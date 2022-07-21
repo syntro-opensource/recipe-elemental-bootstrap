@@ -25,7 +25,7 @@
     "extra": {
         "project-files": [
             "app/_config/elemental.yml",
-            "app/code/*",
+            "app/src/*",
             "app/templates/*"
         ]
     }
