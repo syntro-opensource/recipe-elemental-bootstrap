@@ -3,6 +3,7 @@
 namespace Model\Elements;
 
 use SilverStripe\Forms\FieldList;
+use SilverStripe\Forms\GridField\GridField;
 use DNADesign\Elemental\Models\BaseElement;
 use Syntro\SilverStripeElementalBaseitem\Forms\GridFieldConfig_ElementalChildren;
 use Model\Elements\Card;
@@ -66,7 +67,7 @@ class CardDeckSection extends BaseElement
     {
         $this->beforeUpdateCMSFields(function ($fields) {
             if ($this->ID) {
-                /** @var GridField $griditems */
+                /** @var GridField $entries */
                 $entries = $fields->fieldByName('Root.Cards.Cards');
                 $entries->setConfig(GridFieldConfig_ElementalChildren::create());
                 $fields->removeByName('Cards');
