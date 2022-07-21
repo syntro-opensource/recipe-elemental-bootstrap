@@ -2,6 +2,12 @@
 ## [Unreleased]
 
 
+<a name="1.1.2"></a>
+## [1.1.2] - 2022-07-21
+### 🐞 Fixed
+- phpstan errors in CardDeck
+
+
 <a name="1.1.1"></a>
 ## [1.1.1] - 2022-07-21
 ### 🐞 Fixed
@@ -110,7 +116,8 @@ should reinstall the following modules manually:
 <a name="0.1.0"></a>
 ## 0.1.0 - 2020-08-31
 
-[Unreleased]: https://github.com/syntro-opensource/recipe-elemental-bootstrap/compare/1.1.1...HEAD
+[Unreleased]: https://github.com/syntro-opensource/recipe-elemental-bootstrap/compare/1.1.2...HEAD
+[1.1.2]: https://github.com/syntro-opensource/recipe-elemental-bootstrap/compare/1.1.1...1.1.2
 [1.1.1]: https://github.com/syntro-opensource/recipe-elemental-bootstrap/compare/1.1.0...1.1.1
 [1.1.0]: https://github.com/syntro-opensource/recipe-elemental-bootstrap/compare/1.0.0...1.1.0
 [1.0.0]: https://github.com/syntro-opensource/recipe-elemental-bootstrap/compare/0.4.1...1.0.0
