@@ -23,17 +23,30 @@ class Card extends BaseItem
 
     /**
      * Defines the database table name
-     *  @var string
+     * @config
+     * @var string
      */
     private static $table_name = 'Section_CardDeck_Card';
 
+    /**
+     * @config
+     * @var bool
+     */
     private static $displays_title_in_template = true;
 
+    /**
+     * @config
+     * @var array
+     */
     private static $db = [
         'Content' => 'HTMLText',
         'Size' => 'Enum("small,medium,large,huge", "medium")',
     ];
 
+    /**
+     * @config
+     * @var array
+     */
     private static $has_one = [
         'Section' => CardDeckSection::class,
         'Image' => Image::class,
@@ -42,7 +55,8 @@ class Card extends BaseItem
 
     /**
      * Tell SS which files to duplicate alongside this section
-     *  @var array
+     * @config
+     * @var array
      */
     private static $cascade_duplicates = [
         'Link'
@@ -50,7 +64,8 @@ class Card extends BaseItem
 
     /**
      * Add default values to database
-     *  @var array
+     * @config
+     * @var array
      */
     private static $defaults = [
         'Size' => 'medium'
@@ -59,6 +74,7 @@ class Card extends BaseItem
     /**
      * Defines summary fields commonly used in table columns
      * as a quick overview of the data for this dataobject
+     * @config
      * @var array
      */
     private static $summary_fields = [
@@ -68,6 +84,7 @@ class Card extends BaseItem
 
     /**
      * Relationship version ownership
+     * @config
      * @var array
      */
     private static $owns = [

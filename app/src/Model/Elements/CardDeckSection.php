@@ -19,32 +19,41 @@ class CardDeckSection extends BaseElement
 {
     /**
      * Defines the database table name
-     *  @var string
+     * @config
+     * @var string
      */
     private static $table_name = 'Section_CardDeck';
 
     /**
+     * @config
      * @var bool
      */
     private static $inline_editable = false;
 
     /**
+     * @config
      * @var string
      */
     private static $icon = 'font-icon-block-layout-5';
 
     /**
+     * @config
      * @var array
      */
     private static $styles = [];
 
+    /**
+     * @config
+     * @var array
+     */
     private static $has_many = [
         'Cards' => Card::class
     ];
 
     /**
      * Add default values to database
-     *  @var array
+     * @config
+     * @var array
      */
     private static $cascade_duplicates = [
         'Cards'
