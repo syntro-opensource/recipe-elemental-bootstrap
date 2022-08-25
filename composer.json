@@ -16,7 +16,7 @@
         "dnadesign/silverstripe-elemental": "^4",
         "gorriecoe/silverstripe-link": "^1.3",
         "gorriecoe/silverstripe-linkfield": "^1.0",
-        "syntro/silverstripe-elemental-baseitem": "1.0.1"
+        "syntro/silverstripe-elemental-baseitem": "1.1.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.7",
